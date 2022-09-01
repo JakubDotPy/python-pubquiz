@@ -1,3 +1,4 @@
 pytest>=6.2.5
 notebook>=6.4.6
 RISE>=5.7.1
+jupyter_contrib_nbextensions
